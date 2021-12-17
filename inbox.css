@@ -8,13 +8,13 @@
 html,
 body {
   font-size: 16px;
-  background-color: #333;
+  background-color: #0e8bff;
   color: #fafafa;
   font-family: sans-serif;
 }
 
 .hero {
-  background-color: #0e8bff;
+  background-color: #333;
   text-align: center;
   padding: 60px 20px;
   margin-bottom: 20px;
